@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -30,6 +33,7 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Lesson3__1",
     "onboarding.tips.debug.path": "C:/Users/frolovs/IdeaProjects/Lesson3_1/src/Main.java"
   }
 }]]></component>
